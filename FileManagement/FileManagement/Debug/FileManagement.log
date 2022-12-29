@@ -1,4 +1,0 @@
-﻿  源.cpp
-C:\Users\nathanq\source\repos\FileManagement\FileManagement\源.cpp(606,9): warning C4101: “j”: 未引用的局部变量
-C:\Users\nathanq\source\repos\FileManagement\FileManagement\源.cpp(623,9): warning C4101: “j”: 未引用的局部变量
-  FileManagement.vcxproj -> C:\Users\nathanq\source\repos\FileManagement\Debug\FileManagement.exe
